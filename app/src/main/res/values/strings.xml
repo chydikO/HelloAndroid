@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello Android Lesson-1</string>
+    <string name="center_text">Hello WorlD !!!</string>
+    <string name="button_text">Click ME!</string>
+    <string name="toast_message">The Button has been pressed</string>
+
+</resources>
